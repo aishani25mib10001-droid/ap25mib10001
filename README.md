@@ -68,7 +68,7 @@ python main.py
 - No manual setup required.  
 
 ## How to Run the Project
-python main.py
+python main.py<br>
 Use the on-screen menu options to navigate through modules.
 <br>
 
