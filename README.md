@@ -89,3 +89,18 @@ sqlite3 hospital.db
 
 <br>
 <h2>SCREENSHOTS</h2>
+<img width="1920" height="1080" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/26c3c4aa-59b4-44e5-a74b-41a75a66b5e4" />
+<img width="1920" height="1080" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/5d881f85-aea9-4d7b-86c8-68d84b43168d" />
+<img width="1920" height="1080" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/5403ebd2-7eca-4330-a573-9d151f1a845d" />
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/aaf0881a-9e56-46aa-8389-9a47f287d9f3" />
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/d05a34fe-3c82-4687-9faf-18d4e2ba7323" />
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/719c6121-4e3e-46f6-99d5-f0a17fa72395" />
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/c49f6f73-49f8-43de-b21f-f971a7f47524" />
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/f79497dd-a4f6-41f2-a2cc-624e0fd08261" />
+
+
+
+
+
+
+
