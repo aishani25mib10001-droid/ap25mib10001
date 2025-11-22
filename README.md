@@ -55,8 +55,7 @@ Hospital Management System (HMS) is an application in Python–SQLite built for 
 - SQLite (built-in with Python)  
 
 ### Steps to Install
-1. Clone the repository:
-git clone https://github.com/aishani25mib10001-droid/Hospital-Management-System.git
+1. Clone the repository
 2. Navigate to the project folder:
 cd Hospital-Management-System
 3. Run the main program:
